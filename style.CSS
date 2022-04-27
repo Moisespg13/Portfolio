@@ -1,0 +1,49 @@
+body{
+    background:#181818;
+    color:rgba(255, 255, 255, 0.774);
+    list-style: none;
+}
+
+header{
+    color:white;
+    width: 100%;
+    min-height: 3cm;
+    border:1px;
+    background: black;
+    display:flex;
+    flex-flow: row wrap;
+    align-items:center;
+    justify-content: space-between;
+    margin-right:100px;
+}
+
+.edu ul li{
+    list-style:none;
+    margin: 100px;
+}
+
+.header .title{}
+.header .ul{flex-flow: row wrap;
+}
+.header .nav .ul .li{list-style:none;}
+.header .a{}
+.title{color:rgb(255, 255, 255);}
+
+.h2{color:rgba(255, 255, 255, 0.938)}
+
+.about{}
+.about .h2{}
+
+.edu{height: 5cm;}
+.edu .h2{}
+.edu .ul{}
+
+.exp{height: 5cm;}
+.exp .h2{}
+.exp .ul{}
+
+.foot{}
+.foot .ul .li{}
+.foot .img{}
+
+
